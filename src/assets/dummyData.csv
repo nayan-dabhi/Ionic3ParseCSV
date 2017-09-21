@@ -1,0 +1,7 @@
+Date,First Name,Last Name,Email,Amount,Currency,InvoiceID,Country
+08.22.2017,F1,L1,test1@test.com,"25,00",EUR,1,GER
+08.21.2017,F2,L2,test2@test.com,"25,00",EUR,2,GER
+08.19.2017,F3,L3,test3@test.com,"25,00",EUR,3,GER
+08.18.2017,F4,L4,test4@test.com,"25,00",EUR,4,GER
+08.17.2017,F5,L5,test5@test.com,"25,00",EUR,5,GER
+08.16.2017,F6,L6,test6@test.com,"25,00",EUR,6,GER
